@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QuickTip Calculator</string>
+    <string name="total_amount">Total Jumlah</string>
+    <string name="hint_total_amount">100000</string>
+    <string name="choose_tip">Pilih Tip</string>
+    <string name="tip_15">Cukup (15%)</string>
+    <string name="tip_20">Bagus (20%)</string>
+    <string name="tip_25">Luar Biasa (25%)</string>
+    <string name="round_up_tip">Bulatkan Tip</string>
+    <string name="calculate_btn">Hitung</string>
+    <string name="result">Hasil</string>
+    <string name="your_tip">Tip Anda :</string>
+    <string name="calculated_tip">Rp 0</string>
+    <string name="total">Total : </string>
+    <string name="calculated_total">Rp 0</string>
+</resources>

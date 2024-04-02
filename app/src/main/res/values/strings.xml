@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">quicktip</string>
+    <string name="app_name">QuickTip Calculator</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="hint_total_amount">100000</string>
+    <string name="choose_tip">Choose Tip</string>
+    <string name="tip_15">Okay (15%)</string>
+    <string name="tip_20">Good (20%)</string>
+    <string name="tip_25">Amazing (25%)</string>
+    <string name="round_up_tip">Round up tip</string>
+    <string name="calculate_btn">Calculate</string>
+    <string name="result">Result</string>
+    <string name="your_tip">Your Tip :</string>
+    <string name="calculated_tip">Rp 0</string>
+    <string name="total">Total : </string>
+    <string name="calculated_total">Rp 0</string>
 </resources>
